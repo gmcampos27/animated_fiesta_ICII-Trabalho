@@ -42,4 +42,4 @@ int main(){
 	quicksortz(y,0,n-1);
 	for(i=0; i< n; i++)
 		printf("%d ", y[i]);
-} 
+}
